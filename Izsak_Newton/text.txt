@@ -1,10 +1,9 @@
- - Username: gravity_kecske69
+ - Username: Newton_the_goat
  - Mottó: Az alma nem esik messze a fájától
- - Highlights
  - Hobbi: Nö kergetés, Kecske sokasítás, Matek, Fizika, Feltalálás
- - Bemutatkozás: Én Sir Isaac Newton vagyok 1643-ban születtem, nagy feltaláló és eszes tudós aki nem adja fel a lehetetlen előtt. Megfogom haladni a korom és tovább viszem az emberiség fejletségét a következő szintre.
+ - Bemutatkozás: Én Isaac Newton vagyok 1643-ban születtem, nagy feltaláló és eszes tudós aki nem adja fel a lehetetlen előtt. Megfogom a korom lrndületét és tovább viszem az emberiség fejletségét a következő szintre.
 
- - Story:A nevem Isaac Newton,születtem az angliai Woolsthorpe-by-Colsterworth faluban.
+ - Bio:A nevem Isaac Newton,születtem az angliai Woolsthorpe-by-Colsterworth faluban.
 
 Apám még a születésem előtt meghalt, ezért gyermekkorom nem volt könnyű.
 
@@ -24,7 +23,9 @@ Leírtam a felfedezéseimet az Philosophiae Naturalis Principia Mathematica cím
 
 Büszke vagyok rá, hogy a munkám segített jobban megérteni a természet törvényeit.
 
-- Posts
+- Posts:
+
+
 
 
 
