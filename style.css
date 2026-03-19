@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-*{
-border: solid black 2px;
 
-=======
 main {
     display: grid;
     grid-template-areas: 
@@ -32,5 +28,4 @@ main {
 
 .aside {
     grid-area: aside;
->>>>>>> 268009c536e059819fd4e8db407ace2a27fea1f3
 }
