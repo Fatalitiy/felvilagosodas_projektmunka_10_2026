@@ -1,4 +1,36 @@
+<<<<<<< HEAD
 *{
 border: solid black 2px;
 
+=======
+main {
+    display: grid;
+    grid-template-areas: 
+    "header header"
+    "article article"
+    ;
+    grid-template-columns: 1fr 1fr;
+}
+
+.header {
+    grid-area: header;
+    display: grid;
+    grid-template-areas: 
+    "aside sectionH"
+    "aside sectionH"
+    ;
+    grid-template-columns: 1fr 1fr;
+}
+
+.article {
+    grid-area: article;
+}
+
+.sectionH {
+    grid-area: sectionH;
+}
+
+.aside {
+    grid-area: aside;
+>>>>>>> 268009c536e059819fd4e8db407ace2a27fea1f3
 }
