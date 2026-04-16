@@ -8,7 +8,7 @@ body {
 .container {
   background-color: rgb(29, 29, 29);
   border-radius: 8px;
-  padding: 15px;
+  padding: 0;
   color: white;
 }
 
@@ -35,11 +35,17 @@ body {
 
 .nav a {
   text-decoration: none;
-  text-align: center;
+  text-align: justify;
   color: white;
   background-color: rgb(36, 36, 36);
   border-radius: 4px;
-  padding: 20px;
+  padding: 3px;
+}
+
+.nav a:hover {
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(26, 26, 26);
 }
 
 .nav2 a:hover {
@@ -81,14 +87,45 @@ article p {
     text-align: justify;
 }
 
+article .uzenet1, .uzenet2, .valasz1, .valasz2 {
+  margin-right: 10%;
+}
+
+article .uzenet1 {
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: #262626;
+}
+
+article .uzenet2 {
+    padding-bottom: 1px;
+    padding-left: 5px;
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: #262626;
+}
+
+
 article .valasz1 {
-    margin-left: 0;
-    padding-left: 10%;
+    margin-left: 10%;
+    padding-left: 1%;
+    padding-bottom: 1px;
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: #262626;
 }
 
 article .valasz2 {
-    margin-left: 0;
-    padding-left: 10%;
+    margin-left: 10%;
+    padding-left: 1%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: #262626;
 }
 
 footer {
